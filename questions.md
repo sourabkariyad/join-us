@@ -24,7 +24,7 @@
     8. Include any future enhancement that you like to do for the app in the readme.md file (if any).
     9. Do not use any API to shorten URL.
     
-    ## Features needed:
+    ### Features needed:
      1. Sign Up (Use Laravel Auth).
      2. Sign In (Use Laravel Auth).
      3. Add 1 snapshot card in dashboard to show total URL count.
