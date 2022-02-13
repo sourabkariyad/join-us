@@ -25,3 +25,13 @@ OS: Windows 10
 Editor: Sublime text & VS code
 Database: MySQL
 Local Server: Xampp
+
+
+## Social Profile
+
+1.
+Github profile url: https://github.com/sourabkariyad
+
+2.
+LinkedIn profile: https://www.linkedin.com/in/sourab-k-a33567171/
+
