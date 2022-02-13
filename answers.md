@@ -35,3 +35,59 @@ Github profile url: https://github.com/sourabkariyad
 2.
 LinkedIn profile: https://www.linkedin.com/in/sourab-k-a33567171/
 
+
+## The real stuff.
+
+2.
+
+<?php
+function numArray($num)
+{
+	return str_split($num);
+}
+print_r(numArray(524));
+?>
+
+
+3.
+
+<?php
+function pigLatin($text)
+{
+$arr = explode(' ',$text);
+foreach($arr as $ar)
+{
+	$word = strrev($ar);
+    $pig_latin_word = $word. 'ay ';
+    $pig_latin .= $pig_latin_word;
+}
+return $pig_latin;
+}
+echo pigLatin("I am a professional prograammer");
+?>
+
+
+4.
+<?php
+function rotates($k)
+{
+$arr = array(1,2,3,4,5,6);
+for($i=0; $i < $k; $i++)
+{
+array_push($arr, array_shift($arr));
+
+}
+return $arr;
+}
+
+print_r(rotates(3));
+
+?>
+
+
+5.
+
+https://github.com/sourabkariyad/url-shortner
+
+
+
